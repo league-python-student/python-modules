@@ -37,8 +37,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cecbbbe5-db1f-4231-9bcc-f5a507c770d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Level0-Module2/_02_random/_3_dice_roll/dice 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level0-Module2/_02_random/_3_dice_roll/dice 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level0-Module2/_02_random/_3_dice_roll/dice 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level0-Module2/_02_random/_3_dice_roll/dice 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level0-Module2/_02_random/_3_dice_roll/dice 5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level0-Module2/_02_random/_3_dice_roll/dice 6.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Level0-Module2/_03_methods/_5_ice_cream_shop/ice_cream_shop/ice_cream_shop.pyde" beforeDir="false" afterPath="$PROJECT_DIR$/Level0-Module2/_03_methods/_5_ice_cream_shop/ice_cream_shop/ice_cream_shop.pyde" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level0-Module2/_02_random/_2_rock_paper_scissors/rock_paper_scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Level0-Module2/_02_random/_2_rock_paper_scissors/rock_paper_scissors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level0-Module2/_02_random/_3_dice_roll/dice_roll.py" beforeDir="false" afterPath="$PROJECT_DIR$/Level0-Module2/_02_random/_3_dice_roll/dice_roll.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,14 +74,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Level0-Module2/_03_methods/_3_dot_race" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Level0-Module2/_02_random/_3_dice_roll" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Level0-Module2/_03_methods/_3_dot_race" />
-      <recent name="$PROJECT_DIR$/Level0-Module2/_02_methods/_1_animal_farm" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Level0-Module2/_01_random/_2_rock_paper_scissors" />
       <recent name="$PROJECT_DIR$/Level0-Module2/_02_methods/_2_safe_cracker" />
@@ -82,9 +85,14 @@
       <recent name="$PROJECT_DIR$/Level0-Module2/_01_random/_6_lottery_numbers" />
       <recent name="$PROJECT_DIR$/Level0-Module2/_01_random/_5_magic_8_ball" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Level0-Module2/_02_random/_3_dice_roll" />
+      <recent name="$PROJECT_DIR$/Level0-Module2/_03_methods/_3_dot_race" />
+      <recent name="$PROJECT_DIR$/Level0-Module2/_02_methods/_1_animal_farm" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.rock_paper_scissors">
-    <configuration name="animal_farm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.dice_roll">
+    <configuration name="dice_roll" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-modules" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,12 +100,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Level0-Module2/_02_methods/_1_animal_farm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Level0-Module2/_02_random/_3_dice_roll" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Level0-Module2/_02_methods/_1_animal_farm/animal_farm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Level0-Module2/_02_random/_3_dice_roll/dice_roll.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lottery_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="rock_paper_scissors (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-modules" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,12 +144,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Level0-Module2/_01_random" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Level0-Module2/_02_random/_2_rock_paper_scissors" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Level0-Module2/_01_random/_6_lottery_numbers/lottery_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Level0-Module2/_02_random/_2_rock_paper_scissors/rock_paper_scissors.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dice_roll" />
+        <item itemvalue="Python.rock_paper_scissors (1)" />
         <item itemvalue="Python.rock_paper_scissors" />
         <item itemvalue="Python.intro" />
         <item itemvalue="Python.safe_cracker" />
-        <item itemvalue="Python.animal_farm" />
-        <item itemvalue="Python.lottery_numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -236,14 +244,44 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="WindowStateProjectService">
+    <state width="1373" height="243" key="GridCell.Tab.0.bottom" timestamp="1609387360386">
+      <screen x="0" y="23" width="1920" height="979" />
+    </state>
+    <state width="1373" height="243" key="GridCell.Tab.0.bottom/0.23.1920.979@0.23.1920.979" timestamp="1609387360386" />
+    <state width="1373" height="243" key="GridCell.Tab.0.center" timestamp="1609387360385">
+      <screen x="0" y="23" width="1920" height="979" />
+    </state>
+    <state width="1373" height="243" key="GridCell.Tab.0.center/0.23.1920.979@0.23.1920.979" timestamp="1609387360385" />
+    <state width="1373" height="243" key="GridCell.Tab.0.left" timestamp="1609387360384">
+      <screen x="0" y="23" width="1920" height="979" />
+    </state>
+    <state width="1373" height="243" key="GridCell.Tab.0.left/0.23.1920.979@0.23.1920.979" timestamp="1609387360384" />
+    <state width="1373" height="243" key="GridCell.Tab.0.right" timestamp="1609387360385">
+      <screen x="0" y="23" width="1920" height="979" />
+    </state>
+    <state width="1373" height="243" key="GridCell.Tab.0.right/0.23.1920.979@0.23.1920.979" timestamp="1609387360385" />
+    <state x="858" y="228" width="670" height="676" key="search.everywhere.popup" timestamp="1609369904843">
+      <screen x="0" y="23" width="1920" height="979" />
+    </state>
+    <state x="858" y="228" width="670" height="676" key="search.everywhere.popup/0.23.1920.979@0.23.1920.979" timestamp="1609369904843" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_modules$safe_cracker__1_.coverage" NAME="safe_cracker (1) Coverage Results" MODIFIED="1608662543678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level0-Module2/_03_methods/_2_safe_cracker" />
+    <SUITE FILE_PATH="coverage/python_modules$years_alive.coverage" NAME="years_alive Coverage Results" MODIFIED="1609310296778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level0-Module3/_02_loop_variables/_1_years_alive" />
+    <SUITE FILE_PATH="coverage/python_modules$are_you_happy.coverage" NAME="are_you_happy Coverage Results" MODIFIED="1609309774127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level0-Module3/_01_elif/_4_are_you_happy" />
     <SUITE FILE_PATH="coverage/python_modules$_1_intro_to_random.coverage" NAME="_1_intro_to_random Coverage Results" MODIFIED="1607574137118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level0-Module2/_01_random" />
     <SUITE FILE_PATH="coverage/python_modules$animal_farm.coverage" NAME="animal_farm Coverage Results" MODIFIED="1608071918217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level0-Module2/_02_methods/_1_animal_farm" />
-    <SUITE FILE_PATH="coverage/python_modules$_6_lottery_numbers.coverage" NAME="_6_lottery_numbers Coverage Results" MODIFIED="1607574123540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level0-Module2/_01_random" />
     <SUITE FILE_PATH="coverage/python_modules$rock_paper_scissors.coverage" NAME="rock_paper_scissors Coverage Results" MODIFIED="1608251244285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level0-Module2/_01_random/_2_rock_paper_scissors" />
+    <SUITE FILE_PATH="coverage/python_modules$safe_cracker.coverage" NAME="safe_cracker Coverage Results" MODIFIED="1608072438122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level0-Module2/_02_methods/_2_safe_cracker" />
+    <SUITE FILE_PATH="coverage/python_modules$safe_cracker__1_.coverage" NAME="safe_cracker (1) Coverage Results" MODIFIED="1608662543678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level0-Module2/_03_methods/_2_safe_cracker" />
+    <SUITE FILE_PATH="coverage/python_modules$turtle_color_chooser.coverage" NAME="turtle_color_chooser Coverage Results" MODIFIED="1609304980502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level0-Module3/_01_elif/_1_turtle_color_chooser" />
+    <SUITE FILE_PATH="coverage/python_modules$high_low_game.coverage" NAME="high_low_game Coverage Results" MODIFIED="1609309098999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level0-Module3/_01_elif/_3_high_low" />
+    <SUITE FILE_PATH="coverage/python_modules$dice_roll.coverage" NAME="dice_roll Coverage Results" MODIFIED="1609387360379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level0-Module2/_02_random/_3_dice_roll" />
+    <SUITE FILE_PATH="coverage/python_modules$_6_lottery_numbers.coverage" NAME="_6_lottery_numbers Coverage Results" MODIFIED="1607574123540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level0-Module2/_01_random" />
     <SUITE FILE_PATH="coverage/python_modules$lottery_numbers.coverage" NAME="lottery_numbers Coverage Results" MODIFIED="1608069145970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level0-Module2/_01_random" />
     <SUITE FILE_PATH="coverage/python_modules$intro.coverage" NAME="intro Coverage Results" MODIFIED="1608074142115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level0-Module2/_03_string_conversion" />
-    <SUITE FILE_PATH="coverage/python_modules$safe_cracker.coverage" NAME="safe_cracker Coverage Results" MODIFIED="1608072438122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level0-Module2/_02_methods/_2_safe_cracker" />
+    <SUITE FILE_PATH="coverage/python_modules$crazy_cat_lady.coverage" NAME="crazy_cat_lady Coverage Results" MODIFIED="1609308495684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level0-Module3/_01_elif/_2_crazy_cat_lady" />
+    <SUITE FILE_PATH="coverage/python_modules$shiny_objects.coverage" NAME="shiny_objects Coverage Results" MODIFIED="1609311192164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level0-Module3/_02_loop_variables/_2_shiny_objects" />
+    <SUITE FILE_PATH="coverage/python_modules$rock_paper_scissors__1_.coverage" NAME="rock_paper_scissors (1) Coverage Results" MODIFIED="1609367936026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Level0-Module2/_02_random/_2_rock_paper_scissors" />
   </component>
 </project>

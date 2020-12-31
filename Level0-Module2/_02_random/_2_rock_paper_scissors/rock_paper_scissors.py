@@ -42,7 +42,7 @@ def opp_select(s):
 
 if __name__ == '__main__':
     window = Tk()
-    window.title("Join")
+    window.title("Rock Paper Scissors")
     window.geometry("1075x250")
     window.configure(background="grey")
 
