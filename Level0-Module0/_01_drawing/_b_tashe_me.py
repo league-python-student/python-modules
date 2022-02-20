@@ -1,7 +1,7 @@
 import turtle
 from PIL import Image
 
-# ================= Instructions at the bottom of this file ===================
+#================= Instructions at the bottom of this file ===================
 
 
 def set_background(filename):
@@ -44,9 +44,9 @@ if __name__ == '__main__':
 
     # 1. Find an image of a face online that you want to put a moustache on and
     #    add the file to the folder with your code
-
+    image = 'emoji.png'
     # 2. Call the set_background() function with the image filename inside of the parenthesis
-    set_background('emoji.png')
+    set_background(image)
 
     # 3. Create a variable called moustache and set it equal to add_moustache('moustache1.gif')
     # moustache = add_moustache('moustache1.gif')
